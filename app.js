@@ -274,6 +274,17 @@ function show(){
 
 
 
+function hide(){
+    document.getElementById("m4").innerHTML=""
+}
+
+
+
+function show(){
+    document.getElementById("m4").innerHTML="erling haaland qwertyuiopasdfghjklzxcvbnm"
+}
+
+
 
 
 
